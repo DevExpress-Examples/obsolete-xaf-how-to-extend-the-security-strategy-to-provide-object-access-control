@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Security.cs](./CS/Solution41.Module/Security.cs) (VB: [Security.vb](./VB/Solution41.Module/Security.vb))
+* [Updater.cs](./CS/Solution41.Module/Updater.cs) (VB: [Updater.vb](./VB/Solution41.Module/Updater.vb))
+<!-- default file list end -->
 # OBSOLETE - How to extend the security strategy to provide object access control, based on encrypted license data
 
 
